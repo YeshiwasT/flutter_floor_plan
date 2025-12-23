@@ -1,4 +1,4 @@
-# Floor Plan Editor
+# Floor Plan Creator
 
 A Flutter package for creating and editing floor plan blueprints with rooms, doors, and SVG export/import capabilities.
 
@@ -20,7 +20,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  floor_plan_editor: ^1.0.0
+  floor_plan_creator: ^1.0.0
 ```
 
 
@@ -29,7 +29,7 @@ dependencies:
 ### Basic Usage
 
 ```dart
-import 'package:floor_plan_editor/floor_plan_editor.dart';
+import 'package:floor_plan_creator/floor_plan_creator.dart';
 
 class MyApp extends StatelessWidget {
   @override

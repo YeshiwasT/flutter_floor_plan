@@ -1,4 +1,4 @@
-name: floor_plan_editor
+name: floor_plan_creator
 description: A Flutter package for creating and editing floor plan blueprints with rooms, doors, and SVG export/import capabilities.
 version: 1.0.0
 homepage: https://github.com/YeshiwasT/flutter_floor_plan
