@@ -2,6 +2,14 @@
 
 A Flutter package for creating and editing floor plan blueprints with rooms, doors, and SVG export/import capabilities.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/YeshiwasT/flutter_floor_plan)
+
+## Screenshot
+
+![Floor Plan Creator](https://github.com/YeshiwasT/flutter_floor_plan/raw/main/assets/screenshot.png)
+
+> **Note:** Add your screenshot image as `assets/screenshot.png` in your repository. The image will be displayed on pub.dev and GitHub.
+
 ## Features
 
 - 🏠 **Multiple Room Shapes**: Rectangle, L-shape, U-shape, T-shape, and Circular rooms
@@ -144,4 +152,10 @@ MIT License
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## GitHub Repository
+
+🔗 **[View on GitHub](https://github.com/YeshiwasT/flutter_floor_plan)**
+
+For issues, feature requests, or contributions, please visit the [GitHub repository](https://github.com/YeshiwasT/flutter_floor_plan).
 

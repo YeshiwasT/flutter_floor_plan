@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2024-12-23
+
+### Changed
+- Updated package name to `flutter_blueprint_maker`
+- Added GitHub repository links to README
+
 ## [1.0.0] - 2024-12-22
 
 ### Added
