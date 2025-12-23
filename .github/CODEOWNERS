@@ -1,0 +1,14 @@
+# Code Owners File
+# This file defines who must review changes to specific parts of the codebase
+# All changes require approval from the code owner before merging
+
+# Owner for everything in the repository
+* @YeshiwasT
+
+# Specific paths (optional - for more granular control)
+/lib/ @YeshiwasT
+/pubspec.yaml @YeshiwasT
+/README.md @YeshiwasT
+/CHANGELOG.md @YeshiwasT
+/LICENSE @YeshiwasT
+
