@@ -23,13 +23,6 @@ dependencies:
   floor_plan_editor: ^1.0.0
 ```
 
-Or use from a local path:
-
-```yaml
-dependencies:
-  floor_plan_editor:
-    path: ../floor_plan_editor
-```
 
 ## Usage
 
