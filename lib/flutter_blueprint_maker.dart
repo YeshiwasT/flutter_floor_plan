@@ -1,8 +1,8 @@
-/// Floor Plan Maker Package
+/// Flutter Blueprint Maker Package
 /// 
 /// A Flutter package for creating and editing floor plan blueprints
 /// with rooms, doors, and SVG export/import capabilities.
-library floor_plan_maker;
+library flutter_blueprint_maker;
 
 // Export models
 export 'src/models/room.dart';

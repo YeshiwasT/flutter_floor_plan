@@ -20,7 +20,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  floor_plan_maker: ^1.0.0
+  flutter_blueprint_maker: ^1.0.0
 ```
 
 
@@ -29,7 +29,7 @@ dependencies:
 ### Basic Usage
 
 ```dart
-import 'package:floor_plan_maker/floor_plan_maker.dart';
+import 'package:flutter_blueprint_maker/flutter_blueprint_maker.dart';
 
 class MyApp extends StatelessWidget {
   @override
