@@ -8,7 +8,6 @@ A Flutter package for creating and editing floor plan blueprints with rooms, doo
 
 ![Floor Plan Creator](https://github.com/YeshiwasT/flutter_floor_plan/raw/main/assets/screenshot.png)
 
-> **Note:** Add your screenshot image as `assets/screenshot.png` in your repository. The image will be displayed on pub.dev and GitHub.
 
 ## Features
 
